@@ -50,7 +50,7 @@ footer {
 
 .product,
 .summary div {
-    /* border: 0.1rem solid black; */
+    border: 0.1rem solid black;
     font-size: 1.8rem;
     display: flex;
     font-size: 1.8rem;
@@ -60,13 +60,10 @@ footer {
 }
 
 .product div {
-    width: calc(100% / 3);
-    border: 1px solid black;
-    /* width: 100%; */
+    width: calc(100% / 3);        
 }
 
-#Summary {
-   /* border: 1px solid black; */
+#Summary {   
    margin-bottom: 1em;
 }
 
